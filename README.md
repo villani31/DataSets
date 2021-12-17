@@ -1,3 +1,3 @@
 # DataSets
 
-Dataset usado para desenvolvimento de projetos.
+Datasets usado para desenvolvimento de projetos.
